@@ -1,0 +1,2 @@
+export const PIXI_JS_DEVTOOlS_SUPPORT = 1;
+export const BACKGROUND_COLOR = 0xDDDDDD;
